@@ -106,3 +106,79 @@ git pull tt master
 git log
 clear
 git show
+pwd 
+git log
+clear
+git branch development
+ls
+git branch
+git branch stage
+git branch
+ls
+git development
+git checkout development
+ls
+git checkout stage
+ls
+git branch
+git status
+git checkout master
+git restore .bash_history
+git status
+git add deploy.sh
+git status
+git checkout stage
+ls
+git checkout master
+git status
+git restore deploy.sh
+ls
+git status
+git checkout stage
+clear
+git status
+ls
+touch .gitignore
+touch info.dev
+git status
+vi .gitignore
+ls
+git rm deploy.sh
+ls
+cat .gitignore
+ls
+vi .gitignore
+git status
+cat.gitignore
+cat .gitignore
+git clean
+git clean -n
+git status
+git clean -n -y
+git clean -f
+git status
+cat .gitignore
+ls
+touch deploy.sh
+ls
+git status
+git add deploy.sh
+l;s
+ls
+git status
+clear
+git status
+git commit -a -m "info_developers ignored"
+git status
+git log
+vi delploy.sh
+clear
+git ststus
+git status
+git commit -a  -m " deployment to the stating environment"
+git log
+clear
+git status
+git commit deploy.sh
+git add deploy.sh
+git status
